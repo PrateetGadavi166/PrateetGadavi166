@@ -5,6 +5,26 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🚀 Aspiring Data Analyst | SQL | Power BI | Python | Excel | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
+💼 Dedicated | Adaptable | Lifelong Learner
+
+Hi, I’m Prateet Gadavi a recent graduate from KLS Gogte Institute of technology specializing in B.E Computer Science — a calm, sincere, and detail-oriented individual with a strong belief in continuous learning and growth. My curiosity for understanding patterns and solving problems has led me to explore the world of data and business analytics.
+
+🛠 Key area of expertise:
+I'm currently building skills in tools like Microsoft Excel, Power BI, SQL and AI/ML, and I enjoy turning raw data into meaningful insights. Whether it’s academics, teamwork, or contributing to a positive environment, I bring consistency, curiosity, and a thoughtful mindset to everything I do.
+
+I value simplicity, integrity, and lifelong learning — and I’m excited about opportunities where I can apply analytical thinking while continuing to grow personally and professionally.
+
+🚀 What I've Built:
+
+🧠 ML based Company forecasting model : Built a ML model forecasting company finances.
+📊 Ecommerce Dashboard: Power BI-based visual insights into sales performance analysis.
+🚀 SQL Aviation Analysis: Analyzed 50k+ airline and city traffic records using advanced SQL concepts.
+
+🌟 Highlights:
+Certified Data Analyst, SQL, and Problem Solving
+
+🔍 Currently exploring Full-time opportunities in analytics and data-driven roles where I can contribute from day one and grow in a challenging, team-driven environment.
+
 ## 🛠️ Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
